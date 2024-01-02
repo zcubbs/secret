@@ -1,5 +1,5 @@
-module secret
+module github.com/zcubbs/secret
 
 go 1.21
 
-require github.com/zcubbs/crypto v0.0.0-20231231144643-ae5ff8ebc288
+require github.com/zcubbs/crypto v0.1.0
