@@ -2,8 +2,6 @@ github.com/ProtonMail/go-crypto v0.0.0-20230923063757-afb1ddc0824c h1:kMFnB0vCcX
 github.com/ProtonMail/go-crypto v0.0.0-20230923063757-afb1ddc0824c/go.mod h1:EjAoLdwvbIOoOQr3ihjnSoLZRtE8azugULFRteWMNc0=
 github.com/cloudflare/circl v1.3.3 h1:fE/Qz0QdIGqeWfnwq0RE0R7MI51s0M2E4Ga9kq5AEMs=
 github.com/cloudflare/circl v1.3.3/go.mod h1:5XYMA4rFBvNIrhs50XuiBJ15vF2pZn4nnUKZrLbUZFA=
-github.com/zcubbs/crypto v0.0.0-20231231144643-ae5ff8ebc288 h1:RWvDtzp4E0Dfw9v9dBc/oo69IdftyjPFSAL+ThwQIII=
-github.com/zcubbs/crypto v0.0.0-20231231144643-ae5ff8ebc288/go.mod h1:ouZGEfy8SMqc9FS9pU1RVgqhfhBTypQx5vvrxhFmSwI=
 github.com/zcubbs/crypto v0.1.0 h1:D6LPJadv0u18EZBhtGMFiCTGWqzC+AMygzRWlbvX51Y=
 github.com/zcubbs/crypto v0.1.0/go.mod h1:ouZGEfy8SMqc9FS9pU1RVgqhfhBTypQx5vvrxhFmSwI=
 golang.org/x/crypto v0.7.0 h1:AvwMYaRytfdeVt3u6mLaxYtErKYjxA2OXjJ1HHq6t3A=
